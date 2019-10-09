@@ -1,2 +1,3 @@
-# winrc
-My vinrc file
+# my vimrc file
+
+
